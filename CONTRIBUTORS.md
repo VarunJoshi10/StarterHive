@@ -1,6 +1,6 @@
 # Contributors
 
-## Starter Hived Practice Contribution
+## StarterHive Practice Contribution
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
@@ -75,7 +75,7 @@ You can ask questions by raising an [issue](https://github.com/ArslanYM/StarterH
 
 4. Edit:
 
-- Open the `Contributors.md` file
+- Open the `CONTRIBUTORS.md` file
 
 - **Add your name to the section that matches your Initial in [this list](https://github.com/ArslanYM/StarterHive#StarterHive-community), make sure that your name is in alphabetical order. Then save your changes.**
 
@@ -168,10 +168,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **A**
 
- - [Arslan Malik](https://github.com/ArslanYM)
+  - [Alimurtuza Patrawala](https://github.com/CYBWEBALI)
+  - [Arslan Malik](https://github.com/ArslanYM)
+  - [Ashwanthram K L](https://github.com/AshwanthramKL)
 
 
-| [`Back To Top`](#contents) |
+ | [`Back To Top`](#contents) |
 
 
 - ### **B**
@@ -191,38 +193,63 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **I**
 | [`Back To Top`](#contents) |
 - ### **J**
+    
+    - [Jaisal Srivastava](https://github.com/Jais99)
+    
 | [`Back To Top`](#contents) |
 - ### **K**
 | [`Back To Top`](#contents) |
 - ### **L**
+
+     - [Lokesh Kadem](https://github.com/lokeshkadem)
+ 
 | [`Back To Top`](#contents) |
 - ### **M**
+  - [Marcos Agüero](https://github.com/AgMarcos5)
+  - [Mayur Gosavi](https://github.com/imaxmayur)
+  - [Mriganka](https://github.com/turtlebeasts)
+    
 | [`Back To Top`](#contents) |
 - ### **N**
+  - [Nura Mohamed](https://github.com/Nura-mohamed)
 | [`Back To Top`](#contents) |
 - ### **O**
 | [`Back To Top`](#contents) |
 - ### **P**
+    - [Poorvi J Nayak](https://github.com/poorvijn)
+    
 | [`Back To Top`](#contents) |
 - ### **Q**
 | [`Back To Top`](#contents) |
 - ### **R**
 | [`Back To Top`](#contents) |
 - ### **S**
+    
+    - [Shobhit Gupta](https://github.com/shobhitexe)
+    - [Samuel Kalu](https://github.com/eskayML)
+    - [Stephen Cahillane](https://github.com/StephenCahillane)
+    
 | [`Back To Top`](#contents) |
 - ### **T**
 
- - [Tanbir Ali](https://github.com/tanbirali)
-| [`Back To Top`](#contents) |
+  - [Tanbir Ali](https://github.com/tanbirali)
+
+ | [`Back To Top`](#contents) |
 - ### **U**
 | [`Back To Top`](#contents) |
 - ### **V**
+    
+    - [Vijay Pardhu](https://github.com/vijaynaidu16)
+    - [Vyom Vartak](https://github.com/Vyom-V) 
+    
 | [`Back To Top`](#contents) |
 - ### **W**
 | [`Back To Top`](#contents) |
 - ### **X**
 | [`Back To Top`](#contents) |
 - ### **Y**
+    - [Yash Samar](https://github.com/yashhhh04)
+
 | [`Back To Top`](#contents) |
 - ### **Z**
 | [`Back To Top`](#contents) |
